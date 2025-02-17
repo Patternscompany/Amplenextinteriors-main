@@ -756,7 +756,11 @@
     border: 1px solid var(--bs-secondary);
     border-radius: 10px;
 }
-
+.review-img{
+    width: 50px !important;
+    height: 50px !important;
+     border-radius: 50px;
+}
 .team .team-item .team-inner {
     transition: 0.5s;
 }
